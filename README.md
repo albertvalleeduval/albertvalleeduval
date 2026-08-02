@@ -52,7 +52,11 @@ I work with AI in the loop all day, which makes writing the code the easy part. 
 
 ---
 
-<img src="https://raw.githubusercontent.com/albertvalleeduval/albertvalleeduval/output/snake.svg" alt="A snake eating my contribution graph" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albertvalleeduval/albertvalleeduval/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albertvalleeduval/albertvalleeduval/output/snake.svg">
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/albertvalleeduval/albertvalleeduval/output/snake.svg" width="100%">
+</picture>
 
 ---
 
