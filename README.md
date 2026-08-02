@@ -60,7 +60,7 @@ I work with AI in the loop all day, which makes writing the code the easy part. 
 | | So I built | Instead of |
 |---|---|---|
 | 🎙 | **[localflow](https://github.com/albertvalleeduval/localflow)** · Speech to text that never leaves your machine. Hold a key, speak, release, and the words land in whatever app you were already in. No account, no quota, nothing uploaded. | Wispr Flow |
-| 🖼 | **[bg-remove](https://github.com/albertvalleeduval/bg-remove)** · Background removal that never uploads your photos. Batch of images in, full-resolution transparent PNGs out, all running on WebGPU in your own tab. | remove.bg |
+| 🖼 | **[bg-remove](https://github.com/albertvalleeduval/bg-remove)** · Everything remove.bg makes you pay for: batch processing and full resolution. Except the model runs on WebGPU in your own tab, so the images never leave it. | remove.bg |
 | 🧩 | **[Business-Model-Canva](https://github.com/albertvalleeduval/Business-Model-Canva)** · The canvas every business school assignment asks for. Nine editable blocks, filled from your own documents by AI, exported to PDF, PNG or PPTX. | Strategyzer |
 | 🧠 | **[brain-mcp](https://github.com/albertvalleeduval/brain-mcp)** · A second brain, so Claude never forgets anything about you. Markdown notes in a private git repo, served to claude.ai (or any LLM you use) over MCP. | Notion AI |
 
