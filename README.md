@@ -12,7 +12,7 @@
 
 ### ☀️ Day
 
-Global BBA at **NEOMA Business School**, class of 2027.
+**NEOMA Business School**, Global BBA '27.
 
 **[Astry](https://astry.agency)**, a bootstrapped AI startup. I started as the CEO's right hand and now run the services side: I scope the work, sell it, and ship it.
 
@@ -35,11 +35,25 @@ I work with AI in the loop all day, which makes writing the code the easy part. 
 
 ### Shipped, and running
 
-| | | |
-|---|---|---|
-| **Predictis** | Feed it a pitch, it simulates market adoption with a Bass diffusion model and an LLM pass, then hands back a Go/No-Go score and a PDF report. Live in production with paid tiers. | [predictis.market](https://predictis.market) |
-| **Capvo** | Desktop app that records Meet, Zoom, Teams and phone calls, transcribes them as you speak, and pushes structured summaries to your tools over REST, webhooks and MCP. Built at Astry. | [capvo.app](https://capvo.app) |
-| **Lettry** | Applying to internships without the copy-paste. A Next.js dashboard plus a Chrome extension that applies from your own browser, so your account is never touched. | [lettry.app](https://lettry.app) |
+<table>
+<tbody>
+<tr>
+<td><b>Predictis</b></td>
+<td>Feed it a pitch, it simulates market adoption with a Bass diffusion model and an LLM pass, then hands back a Go/No-Go score and a PDF report. Live in production with paid tiers.</td>
+<td><a href="https://predictis.market">predictis.market</a></td>
+</tr>
+<tr>
+<td><b>Capvo</b></td>
+<td>Desktop app that records Meet, Zoom, Teams and phone calls, transcribes them as you speak, and pushes structured summaries to your tools over REST, webhooks and MCP. Built at Astry.</td>
+<td><a href="https://capvo.app">capvo.app</a></td>
+</tr>
+<tr>
+<td><b>Lettry</b></td>
+<td>Applying to internships without the copy-paste. A Next.js dashboard plus a Chrome extension that applies from your own browser, so your account is never touched.</td>
+<td><a href="https://lettry.app">lettry.app</a></td>
+</tr>
+</tbody>
+</table>
 
 ### The rent I stopped paying
 
