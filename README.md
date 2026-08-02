@@ -44,12 +44,12 @@ I work with AI in the loop all day, which makes writing the code the easy part. 
 </tr>
 <tr>
 <td><b>Capvo</b></td>
-<td>Desktop app that records Meet, Zoom, Teams and phone calls, transcribes them as you speak, and pushes structured summaries to your tools over REST, webhooks and MCP. Built at Astry.</td>
+<td>Desktop app that records meetings, transcribes them as you speak, and pushes structured summaries to your tools over REST, webhooks and MCP. Built at Astry.</td>
 <td><a href="https://capvo.app">capvo.app</a></td>
 </tr>
 <tr>
 <td><b>Lettry</b></td>
-<td>Applying to internships without the copy-paste. A Next.js dashboard plus a Chrome extension that applies from your own browser, so your account is never touched.</td>
+<td>Web app that automates job and internship applications. The Chrome extension submits from your own browser, so your account is never touched.</td>
 <td><a href="https://lettry.app">lettry.app</a></td>
 </tr>
 </tbody>
@@ -59,10 +59,10 @@ I work with AI in the loop all day, which makes writing the code the easy part. 
 
 | | So I built | Instead of |
 |---|---|---|
-| 🎙 | **[localflow](https://github.com/albertvalleeduval/localflow)** · Speech to text that never leaves the machine. Hold a key, speak, release, and the words land in whatever app you were already in. No account, no quota, nothing uploaded. | Wispr Flow |
-| 🖼 | **[bg-remove](https://github.com/albertvalleeduval/bg-remove)** · Drop in a batch of images, get transparent PNGs back at full resolution. The model runs on WebGPU inside your own tab, so no photo is ever sent to a server. | remove.bg |
+| 🎙 | **[localflow](https://github.com/albertvalleeduval/localflow)** · Speech to text that never leaves your machine. Hold a key, speak, release, and the words land in whatever app you were already in. No account, no quota, nothing uploaded. | Wispr Flow |
+| 🖼 | **[bg-remove](https://github.com/albertvalleeduval/bg-remove)** · Background removal that never uploads your photos. Batch of images in, full-resolution transparent PNGs out, all running on WebGPU in your own tab. | remove.bg |
 | 🧩 | **[Business-Model-Canva](https://github.com/albertvalleeduval/Business-Model-Canva)** · The canvas every business school assignment asks for. Nine editable blocks, filled from your own documents by AI, exported to PDF, PNG or PPTX. | Strategyzer |
-| 🧠 | **[brain-mcp](https://github.com/albertvalleeduval/brain-mcp)** · A second brain, so Claude never forgets anything about me. Markdown notes in a private git repo, served to claude.ai over MCP. | Notion AI |
+| 🧠 | **[brain-mcp](https://github.com/albertvalleeduval/brain-mcp)** · A second brain, so Claude never forgets anything about you. Markdown notes in a private git repo, served to claude.ai (or any LLM you use) over MCP. | Notion AI |
 
 ---
 
