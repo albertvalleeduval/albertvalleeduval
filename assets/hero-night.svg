@@ -53,7 +53,7 @@
 
     <g opacity="0.92" transform="translate(806 196)">
       <path d="M 0 -15 A 15 15 0 1 0 10 12 A 17 17 0 0 1 0 -15 Z" fill="none" stroke="#a9b6ff" stroke-width="1.6" stroke-linejoin="round"/>
-      <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="16s" repeatCount="indefinite" additive="sum"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite" additive="sum"/>
     </g>
 
     <rect width="880" height="240" rx="14" fill="none" stroke="#232842" stroke-width="1.5"/>
