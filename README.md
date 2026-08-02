@@ -45,10 +45,10 @@ I work with AI in the loop all day, which makes writing the code the easy part. 
 
 | | So I built | Instead of |
 |---|---|---|
-| 🎙 | **[localflow](https://github.com/albertvalleeduval/localflow)** · 100% on-device dictation, hold a key and speak | Wispr Flow |
-| 🖼 | **[bg-remove](https://github.com/albertvalleeduval/bg-remove)** · RMBG-1.4 on WebGPU, nothing leaves the tab | remove.bg |
-| 🧩 | **[Business-Model-Canva](https://github.com/albertvalleeduval/Business-Model-Canva)** · 9 blocks, AI fill, PDF and PPTX out | Strategyzer |
-| 🧠 | **[brain-mcp](https://github.com/albertvalleeduval/brain-mcp)** · a second brain, so Claude never forgets anything about me | Notion AI |
+| 🎙 | **[localflow](https://github.com/albertvalleeduval/localflow)** · Speech to text that never leaves the machine. Hold a key, speak, release, and the words land in whatever app you were already in. No account, no quota, nothing uploaded. | Wispr Flow |
+| 🖼 | **[bg-remove](https://github.com/albertvalleeduval/bg-remove)** · Drop in a batch of images, get transparent PNGs back at full resolution. The model runs on WebGPU inside your own tab, so no photo is ever sent to a server. | remove.bg |
+| 🧩 | **[Business-Model-Canva](https://github.com/albertvalleeduval/Business-Model-Canva)** · The canvas every business school assignment asks for. Nine editable blocks, filled from your own documents by AI, exported to PDF, PNG or PPTX. | Strategyzer |
+| 🧠 | **[brain-mcp](https://github.com/albertvalleeduval/brain-mcp)** · A second brain, so Claude never forgets anything about me. Markdown notes in a private git repo, served to claude.ai over MCP. | Notion AI |
 
 ---
 
