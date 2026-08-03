@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="880" height="240" role="img" aria-label="Business student by day, AI engineer by night.">
+  <defs>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="46"/>
+    </filter>
+    <clipPath id="frame">
+      <rect width="880" height="240" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="880" height="240" fill="#fbfaf8"/>
+
+    <g filter="url(#soft)" opacity="0.85">
+      <circle cx="130" cy="70" r="96" fill="#f2b13c">
+        <animate attributeName="cx" values="130;205;130" dur="21s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="70;120;70" dur="17s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="330" cy="190" r="82" fill="#f08a5d">
+        <animate attributeName="cx" values="330;250;330" dur="25s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="190;140;190" dur="19s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="700" cy="150" r="74" fill="#c9d1f0">
+        <animate attributeName="cy" values="150;95;150" dur="23s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="74;92;74" dur="15s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="825" cy="60" r="58" fill="#8b7ad6" opacity="0.55">
+        <animate attributeName="cx" values="825;770;825" dur="27s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <rect width="880" height="240" fill="#fbfaf8" opacity="0.42"/>
+
+    <g font-family="Segoe UI, SF Pro Display, Helvetica Neue, Arial, sans-serif">
+      <text x="54" y="112" font-size="42" font-weight="700" fill="#17150f">Business student by day.</text>
+      <text x="54" y="160" font-size="42" font-weight="700" fill="#17150f" opacity="0.24">AI engineer by night.</text>
+    </g>
+
+    <g opacity="0.9">
+      <circle cx="806" cy="196" r="13" fill="none" stroke="#c8a24a" stroke-width="1.6"/>
+      <g stroke="#c8a24a" stroke-width="1.6" stroke-linecap="round">
+        <line x1="806" y1="171" x2="806" y2="177"/>
+        <line x1="806" y1="215" x2="806" y2="221"/>
+        <line x1="781" y1="196" x2="787" y2="196"/>
+        <line x1="825" y1="196" x2="831" y2="196"/>
+        <line x1="788" y1="178" x2="792" y2="182"/>
+        <line x1="820" y1="210" x2="824" y2="214"/>
+        <line x1="824" y1="178" x2="820" y2="182"/>
+        <line x1="792" y1="210" x2="788" y2="214"/>
+      </g>
+      <animateTransform attributeName="transform" type="rotate" from="0 806 196" to="360 806 196" dur="16s" repeatCount="indefinite"/>
+    </g>
+
+    <rect width="880" height="240" rx="14" fill="none" stroke="#e6e1d6" stroke-width="1.5"/>
+  </g>
+</svg>
