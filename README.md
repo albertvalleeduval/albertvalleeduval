@@ -25,7 +25,7 @@ Investment desk at **Kryptosphere**, Europe's largest student Web3 society.
 
 I build the tools I refuse to rent, and I open source them.
 
-I work with AI in the loop all day, which makes writing the code the easy part. The work is choosing what to build, checking that it is actually true, and putting it in front of someone by Friday.
+I work with AI in the loop all day, which made writing the code the cheap part. What is left is the hard part: deciding what deserves to exist, and verifying that what comes back is actually correct.
 
 </td>
 </tr>
@@ -39,7 +39,7 @@ I work with AI in the loop all day, which makes writing the code the easy part. 
 <tbody>
 <tr>
 <td><b>Predictis</b></td>
-<td>Feed it a pitch, it simulates market adoption with a Bass diffusion model and an LLM pass, then hands back a Go/No-Go score and a PDF report. Live in production with paid tiers.</td>
+<td>Market research platform. Give it a pitch and a simulation engine built on Bass diffusion and public market data returns a full study: sizing, competition, strategic recommendations and a two-year adoption curve. Live in production with paid tiers.</td>
 <td><a href="https://predictis.market">predictis.market</a></td>
 </tr>
 <tr>
