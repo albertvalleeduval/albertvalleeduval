@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albertvalleeduval/albertvalleeduval/main/assets/hero-night.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albertvalleeduval/albertvalleeduval/main/assets/hero-day.svg">
-  <img alt="Business student by day, AI engineer by night" src="https://raw.githubusercontent.com/albertvalleeduval/albertvalleeduval/main/assets/hero-day.svg" width="100%">
-</picture>
+<img alt="Business student by day, AI engineer by night" src="https://raw.githubusercontent.com/albertvalleeduval/albertvalleeduval/hero/hero.svg" width="100%">
 
 <br>
 
