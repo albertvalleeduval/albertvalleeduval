@@ -1,0 +1,55 @@
+name: switch hero
+
+# Publishes the day or the night banner to the `hero` branch depending on the
+# current hour in Paris. The README points at a single fixed URL on that branch,
+# so nothing on `main` ever changes. Runs every hour: GitHub delays scheduled
+# workflows, sometimes by hours, and an hourly run means the next one corrects it.
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - assets/hero-day.svg
+      - assets/hero-night.svg
+      - .github/workflows/hero.yml
+
+jobs:
+  switch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: pick the banner for the current hour in Paris
+        id: pick
+        run: |
+          hour=$((10#$(TZ=Europe/Paris date +%H)))
+          if [ "$hour" -ge 7 ] && [ "$hour" -lt 19 ]; then
+            echo "source=assets/hero-day.svg" >> "$GITHUB_OUTPUT"
+            echo "label=day" >> "$GITHUB_OUTPUT"
+          else
+            echo "source=assets/hero-night.svg" >> "$GITHUB_OUTPUT"
+            echo "label=night" >> "$GITHUB_OUTPUT"
+          fi
+          echo "It is ${hour}h in Paris."
+
+      - name: publish it to the hero branch
+        run: |
+          cp "${{ steps.pick.outputs.source }}" "$RUNNER_TEMP/hero.svg"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch --depth=1 origin hero
+          git checkout -B hero origin/hero
+          cp "$RUNNER_TEMP/hero.svg" hero.svg
+          if git diff --quiet -- hero.svg; then
+            echo "Already showing the ${{ steps.pick.outputs.label }} banner, nothing to push."
+            exit 0
+          fi
+          git add hero.svg
+          git commit -m "Show the ${{ steps.pick.outputs.label }} banner"
+          git push origin hero
