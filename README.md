@@ -25,7 +25,7 @@ Investment desk at **Kryptosphere**, Europe's largest student Web3 society.
 
 I build the tools I refuse to rent, and I open source them.
 
-I work with AI in the loop all day, which made writing the code the cheap part. What is left is the hard part: deciding what deserves to exist, and verifying that what comes back is actually correct.
+Writing software stopped being the scarce part. Deciding what is worth writing, and selling it once it exists, did not. I study the second half by day and do the first at night.
 
 </td>
 </tr>
@@ -39,7 +39,7 @@ I work with AI in the loop all day, which made writing the code the cheap part. 
 <tbody>
 <tr>
 <td><b>Predictis</b></td>
-<td>Market research platform. Give it a pitch and it returns a full study (sizing, competition, strategic recommendations and a two-year adoption curve) using a simulation engine built on mathematical and marketing models, leveraging public economic and industry data. Live in production with paid tiers.</td>
+<td>Market research platform. Give it a pitch and it returns a full study (sizing, competition, strategic recommendations and a two-year adoption curve) using a simulation engine built on mathematical and marketing models, leveraging public economic and industry data.</td>
 <td><a href="https://predictis.market">predictis.market</a></td>
 </tr>
 <tr>
@@ -76,6 +76,6 @@ I work with AI in the loop all day, which made writing the code the cheap part. 
 
 ### 📬 Open to internships from January 2027
 
-AI or Web3 scale-up, international, Series A or B. Forward deployed, solutions, GTM engineering, founder's associate. The common thread: talk to the customer in the morning, ship the thing in the afternoon.
+In an AI or Web3 scale-up, as a Forward Deployed Engineer, Solutions Engineer, GTM Engineer or Founder's Associate. The common thread: talk to the customer in the morning, ship the thing in the afternoon.
 
 [albertvalleeduval@gmail.com](mailto:albertvalleeduval@gmail.com) · [LinkedIn](https://www.linkedin.com/in/albertvalleeduval/)
