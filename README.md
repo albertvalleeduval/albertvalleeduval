@@ -39,7 +39,7 @@ I work with AI in the loop all day, which made writing the code the cheap part. 
 <tbody>
 <tr>
 <td><b>Predictis</b></td>
-<td>Market research platform. Give it a pitch and a simulation engine built on Bass diffusion and public market data returns a full study: sizing, competition, strategic recommendations and a two-year adoption curve. Live in production with paid tiers.</td>
+<td>Market research platform. Give it a pitch and it returns a full study (sizing, competition, strategic recommendations and a two-year adoption curve) using a simulation engine built on mathematical and marketing models, leveraging public economic and industry data. Live in production with paid tiers.</td>
 <td><a href="https://predictis.market">predictis.market</a></td>
 </tr>
 <tr>
