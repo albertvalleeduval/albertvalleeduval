@@ -72,6 +72,6 @@ Writing software stopped being the scarce part. Deciding what is worth writing, 
 
 ### 📬 Open to internships from January 2027
 
-In an AI or Web3 scale-up, as an AI Engineer, Forward Deployed Engineer, GTM Engineer or Founder's Associate. The common thread: talk to the customer in the morning, ship the thing in the afternoon.
+In an AI or Web3 scale-up, as an AI Engineer, Forward Deployed Engineer, GTM Engineer or Founder's Associate.
 
 [albertvalleeduval@gmail.com](mailto:albertvalleeduval@gmail.com) · [LinkedIn](https://www.linkedin.com/in/albertvalleeduval/)
