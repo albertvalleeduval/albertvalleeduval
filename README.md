@@ -8,7 +8,7 @@
 
 ### ☀️ Day
 
-**NEOMA Business School**, Global BBA '27.
+Final year business student at **NEOMA Business School** (Master's level).
 
 **[Astry](https://astry.agency)**, a bootstrapped AI startup. I started as the CEO's right hand and now run the services side: I scope the work, sell it, and ship it.
 
