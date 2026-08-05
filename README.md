@@ -53,7 +53,7 @@ Writing software stopped being the scarce part. Deciding what is worth writing, 
 
 ### The rent I stopped paying
 
-| | So I built | Instead of |
+| | I built | Instead of |
 |---|---|---|
 | 🎙 | **[localflow](https://github.com/albertvalleeduval/localflow)** · Speech to text that never leaves your machine. Hold a key, speak, release, and the words land in whatever app you were already in. No account, no quota, nothing uploaded. | Wispr Flow |
 | 🖼 | **[bg-remove](https://github.com/albertvalleeduval/bg-remove)** · Everything remove.bg makes you pay for: batch processing and full resolution. Except the model runs on WebGPU in your own tab, so the images never leave it. | remove.bg |
