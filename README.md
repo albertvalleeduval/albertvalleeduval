@@ -62,14 +62,6 @@ Writing software stopped being the scarce part. Deciding what is worth writing, 
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albertvalleeduval/albertvalleeduval/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albertvalleeduval/albertvalleeduval/output/snake.svg">
-  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/albertvalleeduval/albertvalleeduval/output/snake.svg" width="100%">
-</picture>
-
----
-
 ### 📬 Open to internships from January 2027
 
 In an AI or Web3 scale-up, as an AI Engineer, Forward Deployed Engineer, GTM Engineer or Founder's Associate.
